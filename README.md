@@ -6,7 +6,7 @@
 
 # Skills:
 - Python
-- JAVA
+- Java
 - C
 - C++
 
