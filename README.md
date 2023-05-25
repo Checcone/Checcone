@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Distributed Systems
 - 📫 How to reach me: invittofrancesco@gmail.com
 
-[![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francesco)](https://github.com/FrancescoInvitto/github-readme-stats)
+[![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoInvitto)](https://github.com/FrancescoInvitto/github-readme-stats)
 
 
 # Skills:
